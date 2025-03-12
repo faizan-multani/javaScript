@@ -4,6 +4,12 @@
 - Properties can hold any value (primitive types, arrays, functions, other objects).
 - eg. toLowerCase.
 
+# Object Literal : 
+- Constructor function
+- Prototypes
+- Classes
+- Instances (new, this)
+
 # syntax :
 - using literals
 ```const person = { // literal
