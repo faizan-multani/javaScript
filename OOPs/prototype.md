@@ -67,3 +67,19 @@ anotherUsername.trueLength()
 "hitesh".trueLength()
 "iceTea".trueLength()
 ```
+
+## eg.
+```
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+}
+
+// Add a method to the prototype of Person
+Person.prototype.greet = function() {
+  console.log(`Hello, my name is ${this.name} and I am ${this.age} years old.`);
+};
+
+const person1 = new Person("Alice", 25);
+person1.greet(); // Output: Hello, my name is Alice and I am 25 years old.
+```
