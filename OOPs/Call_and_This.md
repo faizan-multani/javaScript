@@ -1,5 +1,5 @@
 # call() :
-- call() is a method that allows you to invoke a function with a specific this context. The this keyword in JavaScript refers to the object that is currently executing the code, and its value is determined by how a function is called.
+- call() is a method that allows you to invoke a function with a specific this context. The 'this' keyword in JavaScript refers to the object that is currently executing the code, and its value is determined by how a function is called.
 ```
 function SetUsername(username){
     //complex DB calls
