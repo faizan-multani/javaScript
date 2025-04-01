@@ -37,7 +37,7 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 
 # Difference between var,let and const :
 
-![Image Description](assets/variables.png)
+![Image Description](Assets/variables.png)
 
 # Variable Hoisting :
 - hoisting refers to the behavior where variable declarations (and sometimes function declarations) are moved to the top of their scope during the compile phase, before the code has been executed.
