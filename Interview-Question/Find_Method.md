@@ -32,10 +32,10 @@ console.log(user);
 ```
 
 ## Use Case :
-![image](findMedthod.png)
+![image](Assets/findMedthod.png)
 
-![image](FindAndFilter.png)
+![image](Assets/FindAndFilter.png)
 
-![image](SomeAndMap.png)
+![image](Assets/SomeAndMap.png)
 
-![image](find_some_map_filter.png)
+![image](Assets/find_some_map_filter.png)
